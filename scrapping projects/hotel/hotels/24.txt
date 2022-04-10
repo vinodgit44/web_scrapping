@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : Kaani Grand Sea view
+Ratings: 4.1 / 5
+Location: Maafushi
+Room Type: Deluxe Double Room with Balcony and Sea View with Free Breakfast
+Rent with Taxes: ₹8434+ ₹2389 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Free Internet', 'Air Conditioning', 'Swimming Pool', 'Indoor Entertainment', 'Conference Room', 'Banquet hall', 'Travel Assistance', 'Laundry Service']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/kaani-grand-sea-view-hotel-in-maldives-5124832403927906788/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : Patong Bay Residence
+Ratings: 4.5 / 5
+Location: Patong
+Room Type: Deluxe Room
+Rent with Taxes: ₹1755+ ₹465 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Free Internet', 'Air Conditioning', 'Swimming Pool', 'Indoor Entertainment', 'Conference Room', 'Banquet hall', 'Travel Assistance', 'Laundry Service']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/patong-bay-residence-hotel-in-phuket-2027636568911725090/
+                                                   
+                                                   

@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : Kaani Village & Spa
+Ratings: 4.5 / 5
+Location: Maafushi
+Room Type: Deluxe Double Room Pool View with Free Breakfast
+Rent with Taxes: ₹7200+ ₹2134 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Free Internet', 'Air Conditioning', 'Swimming Pool', 'Indoor Entertainment', 'Outdoor Activities', 'Laundry Service', 'Health-Spa', 'Spa']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/kaani-village-spa-hotel-in-maldives-26017213033061483/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : Sri Panwa Phuket Luxury Pool Villa Hotel - SHA Extra Plus
+Ratings: 4.5 / 5
+Location: Cape Panwa
+Room Type: Pool Suite Ocean View, Free MiniBar&Snacks, Adults Only with Free Breakfast
+Rent with Taxes: ₹21127+ ₹5196 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Sanitizers installed', 'Bar', 'Conference Room', 'Hospital in the vicinity', 'Banquet hall', 'Safety authorization certificate', 'Travel Assistance']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/sri-panwa-phuket-luxury-pool-villa-sha-extra-plus-hotel-in-phuket-1024949799476598017/
+                                                   
+                                                   

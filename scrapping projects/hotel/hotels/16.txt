@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : Centara Ras Fushi Resort & Spa Maldives
+Ratings: 4.5 / 5
+Location: North Male Atoll
+Room Type: Beach Villa King with Free Breakfast
+Rent with Taxes: ₹17578+ ₹6557 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Sanitizers installed', 'Bar', 'Outdoor Activities', 'Safety authorization certificate', 'Travel Assistance', 'Sanitizers', 'Disinfectant wipes']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/centara-ras-fushi-resort-spa-maldives-hotel-in-maldives-4478192588986564782/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : Trisara Luxury Pool Villas & Residences Phuket - SHA Extra Plus
+Ratings: 5 / 5
+Location: Layan
+Room Type: Ocean View Pool Junior Suite with Free Breakfast
+Rent with Taxes: ₹38064+ ₹9762 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Sanitizers installed', 'Bar', 'Conference Room', 'Hospital in the vicinity', 'Banquet hall', 'Safety authorization certificate', 'Travel Assistance']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/trisara-luxury-pool-villas-residences-phuket-sha-extra-plus-hotel-in-phuket-2823637523658381110/
+                                                   
+                                                   

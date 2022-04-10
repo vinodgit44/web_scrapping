@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : Furaveri Maldives
+Ratings: 4.2 / 5
+Location: Raa Atoll
+Room Type: Garden Villa with Free Breakfast
+Rent with Taxes: ₹21526+ ₹6919 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Sanitizers installed', 'Bar', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance', 'Laundry Service', 'Health-Spa']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/furaveri-maldives-hotel-in-maldives-2456869097031836256/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : Patong Bay Hill Resort and Entertainment - SHA Extra Plus
+Ratings: 4.4 / 5
+Location: Patong
+Room Type: One-Bedroom Suite Pool View
+Rent with Taxes: ₹2877+ ₹769 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Sanitizers installed', 'Bar', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance', 'Sanitizers', 'Disinfectant wipes', 'Laundry Service']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/patong-bay-hill-resort-and-entertainment-sha-extra-plus-hotel-in-phuket-3865381574518041097/
+                                                   
+                                                   

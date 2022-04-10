@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : Anantara Kihavah Villas
+Ratings: 5 / 5
+Location: Baa Atoll
+Room Type: Beach Pool Villa with Free Breakfast and Lunch/Dinner
+Rent with Taxes: ₹149389+ ₹45646 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Bar', 'Conference Room', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance', 'Sanitizers', 'Laundry Service', 'Health-Spa']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/anantara-kihavah-villas-hotel-in-maldives-8960746512403720555/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : MAI HOUSE Patong Hill - SHA Extra Plus
+Ratings: 4.5 / 5
+Location: Patong
+Room Type: Grand Room
+Rent with Taxes: ₹2289+ ₹559 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Bar', 'Airport Transfer (on Demand)', 'Conference Room', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance', 'Laundry Service', 'Postal Services']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/mai-house-patong-hill-sha-extra-plus-hotel-in-phuket-2981471692131599697/
+                                                   
+                                                   

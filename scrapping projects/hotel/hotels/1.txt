@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : Kandima Maldives
+Ratings: 4.7 / 5
+Location: Dhaalu Atoll
+Room Type: Sky Studio with Free Breakfast
+Rent with Taxes: ₹14838+ ₹4452 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Sanitizers installed', 'Bar', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance', 'Sanitizers', 'Disinfectant wipes']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/kandima-maldives-hotel-in-maldives-4366536363238521348/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : Thavorn Palm Beach Resort Phuket - SHA Extra Plus
+Ratings: 4 / 5
+Location: Karon
+Room Type: Deluxe Terrace
+Rent with Taxes: ₹3136+ ₹736 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Sanitizers installed', 'Bar', 'Conference Room', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance', 'Laundry Service']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/thavorn-palm-beach-resort-phuket-sha-extra-plus-hotel-in-phuket-6889541464539838065/
+                                                   
+                                                   

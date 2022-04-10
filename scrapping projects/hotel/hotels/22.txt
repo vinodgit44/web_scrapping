@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : H78
+Ratings: 4.7 / 5
+Location: Hulhumale
+Room Type: Deluxe Double Room with Complimentary Transfer with Free Breakfast
+Rent with Taxes: ₹4818+ ₹1438 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Free Internet', 'Air Conditioning', 'Conference Room', 'Outdoor Activities', 'Travel Assistance', 'Laundry Service', 'Spa', 'Business Services']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/h78-hotel-in-maldives-3724284716220625399/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : Phunawa Resort - SHA Extra Plus
+Ratings: 4.6 / 5
+Location: Karon
+Room Type: Deluxe Room, 1 Queen Bed, Garden View with Free Breakfast
+Rent with Taxes: ₹1573+ ₹366 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Free Internet', 'Air Conditioning', 'Swimming Pool', 'Outdoor Activities', 'Travel Assistance', 'Laundry Service', 'Dining', 'Spa']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/phunawa-resort-sha-extra-plus-hotel-in-phuket-4593325417145334519/
+                                                   
+                                                   

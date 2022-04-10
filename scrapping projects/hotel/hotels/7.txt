@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : SAii Lagoon Maldives, Curio Collection by Hilton
+Ratings: 4.8 / 5
+Location: South Male Atoll
+Room Type: King Sky Room with Free Breakfast
+Rent with Taxes: ₹20259+ ₹4043 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Sanitizers installed', 'Bar', 'Conference Room', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance', 'Laundry Service']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/saii-lagoon-maldives-curio-collection-by-hilton-hotel-in-maldives-1523216627908204744/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : Nipa Resort - SHA Extra Plus
+Ratings: 4 / 5
+Location: Patong
+Room Type: Deluxe Room
+Rent with Taxes: ₹1679+ ₹439 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Free Internet', 'Air Conditioning', 'Swimming Pool', 'Indoor Entertainment', 'Conference Room', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/nipa-resort-sha-extra-plus-hotel-in-phuket-2139144671657696908/
+                                                   
+                                                   

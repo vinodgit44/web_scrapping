@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : Royal Island Resort & Spa
+Ratings: 4.5 / 5
+Location: Baa Atoll
+Room Type: Beach Villa with Free Breakfast and Lunch/Dinner
+Rent with Taxes: ₹10435+ ₹4333 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Sanitizers installed', 'Bar', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance', 'Sanitizers', 'Laundry Service']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/royal-island-resort-spa-hotel-in-maldives-1649175111035926385/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : Sala Phuket Resort and Spa - SHA Extra Plus
+Ratings: 4.5 / 5
+Location: Mai Khao
+Room Type: Deluxe Balcony with Free Breakfast
+Rent with Taxes: ₹9510+ ₹2586 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Air Conditioning', 'Bar', 'Room Service', 'Business Services', 'Restaurant/Coffee Shop', 'Laundry Service', 'CCTV surveillance']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/sala-phuket-resort-and-spa-sha-extra-plus-hotel-in-phuket-3256901165077460077/
+                                                   
+                                                   

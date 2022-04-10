@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : Noomoo
+Ratings: 4 / 5
+Location: Hulhumale
+Room Type: Deluxe Double Room (City View)
+Rent with Taxes: ₹2636+ ₹970 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Sanitizers installed', 'Safety authorization certificate', 'Outdoor Activities', 'Bar', 'Travel Assistance', 'Sanitizers', 'Laundry Service', 'Masks']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/noomoo-hotel-in-maldives-5678573646310146340/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : Ramada by Wyndham Phuket Deevana - SHA Extra Plus
+Ratings: 4.5 / 5
+Location: Patong
+Room Type: Deluxe Balcony Room only
+Rent with Taxes: ₹2198+ ₹515 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Free Internet', 'Air Conditioning', 'Swimming Pool', 'Indoor Entertainment', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance', 'Laundry Service']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/ramada-by-wyndham-phuket-deevana-sha-extra-plus-hotel-in-phuket-5108005132780479126/
+                                                   
+                                                   

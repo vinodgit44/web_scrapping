@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : Grand Park Kodhipparu
+Ratings: 4.4 / 5
+Location: North Male Atoll
+Room Type: Lagoon Water Villa with Free Breakfast
+Rent with Taxes: ₹28192+ ₹9523 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Sanitizers installed', 'Bar', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance', 'Sanitizers', 'Laundry Service']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/grand-park-kodhipparu-hotel-in-maldives-4445366143840292160/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : Dream Phuket Hotel & Spa
+Ratings: 4.5 / 5
+Location: Bangtao
+Room Type: DELUXE with Free Breakfast
+Rent with Taxes: ₹10508+ ₹1983 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Swimming Pool', 'Air Conditioning', 'Bar', 'Room Service', 'Business Services', 'Restaurant/Coffee Shop', 'Laundry Service', 'CCTV surveillance']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/dream-phuket-spa-hotel-in-phuket-5480901293936196396/
+                                                   
+                                                   

@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : Hard Rock Hotel Maldives
+Ratings: 5 / 5
+Location: South Male Atoll
+Room Type: Silver Sky Studio with Free Breakfast
+Rent with Taxes: ₹38398+ ₹13499 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Bar', 'Conference Room', 'Hospital in the vicinity', 'Banquet hall', 'Travel Assistance', 'Sanitizers', 'Laundry Service']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/hard-rock-maldives-hotel-in-maldives-8644252953285418229/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : Oakwood Hotel Journeyhub Phuket - SHA Extra Plus
+Ratings: 4 / 5
+Location: Patong
+Room Type: Deluxe King Room
+Rent with Taxes: ₹1319+ ₹306 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Free Internet', 'Air Conditioning', 'Swimming Pool', 'Outdoor Activities', 'Travel Assistance', 'Laundry Service', 'Business Services']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/oakwood-journeyhub-phuket-sha-extra-plus-hotel-in-phuket-4096122662733104086/
+                                                   
+                                                   

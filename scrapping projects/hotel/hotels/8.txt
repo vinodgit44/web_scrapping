@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : Malahini Kuda Bandos Maldives
+Ratings: 3.8 / 5
+Location: North Male Atoll
+Room Type: Garden View with Free Breakfast
+Rent with Taxes: ₹11032+ ₹3975 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Free Internet', 'Air Conditioning', 'Swimming Pool', 'Indoor Entertainment', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/malahini-kuda-bandos-maldives-hotel-in-maldives-2707089749505754043/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : Tropica Bungalow Hotel - SHA Extra Plus
+Ratings: 4.5 / 5
+Location: Patong
+Room Type: Deluxe Room
+Rent with Taxes: ₹2273+ ₹553 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Free Internet', 'Air Conditioning', 'Swimming Pool', 'Indoor Entertainment', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance', 'Laundry Service']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/tropica-bungalow-sha-extra-plus-hotel-in-phuket-2958258271765381662/
+                                                   
+                                                   

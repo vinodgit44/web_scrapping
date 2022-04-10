@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : The Standard, Huruvalhi Maldives
+Ratings: 4.5 / 5
+Location: Raa Atoll
+Room Type: Deluxe Room, 1 King Bed, Ocean View, Overwater (Ocean Overwater Pool Villa) with Free Breakfast
+Rent with Taxes: ₹30824+ ₹8197 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Sanitizers installed', 'Bar', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance', 'Sanitizers', 'Laundry Service']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/the-standard-huruvalhi-maldives-hotel-in-maldives-5840065465642322850/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : Sino House Phuket Hotel
+Ratings: 4 / 5
+Location: Phuket Town
+Room Type: Deluxe King Room
+Rent with Taxes: ₹1552+ ₹387 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Free Internet', 'Air Conditioning', 'Conference Room', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance', 'Bonfire', 'Laundry Service']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/sino-house-phuket-hotel-in-phuket-1153970207886698016/
+                                                   
+                                                   

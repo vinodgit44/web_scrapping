@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : Adaaran Prestige Water Villas - Premium All Inclusive
+Ratings: 5 / 5
+Location: Raa Atoll
+Room Type: Bungalow, Overwater (With Jacuzzi) with All Inclusive
+Rent with Taxes: ₹50679+ ₹11175 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Sanitizers installed', 'Bar', 'Conference Room', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance', 'Sanitizers']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/adaaran-prestige-water-villas-premium-all-inclusive-hotel-in-maldives-400600012481743518/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : Patong Mansion Hotel Phuket
+Ratings: 4.5 / 5
+Location: Patong
+Room Type: Superior
+Rent with Taxes: ₹1045+ ₹259 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Free Internet', 'Air Conditioning', 'Swimming Pool', 'Indoor Entertainment', 'Airport Transfer (on Demand)', 'Outdoor Activities', 'Travel Assistance', 'Laundry Service']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/patong-mansion-phuket-hotel-in-phuket-1987349133548876412/
+                                                   
+                                                   

@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : Sun Island Resort & Spa Maldives
+Ratings: 4.5 / 5
+Location: South Ari Atoll
+Room Type: Deluxe Beach Villa with Free Breakfast
+Rent with Taxes: ₹14579+ ₹4318 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Sanitizers installed', 'Bar', 'Conference Room', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance', 'Sanitizers']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/sun-island-resort-spa-maldives-hotel-in-maldives-8863535975724819507/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : Homm Bliss Southbeach Patong - SHA Extra Plus
+Ratings: 4.3 / 5
+Location: Patong
+Room Type: Superior Seaview
+Rent with Taxes: ₹2148+ ₹500 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Free Internet', 'Air Conditioning', 'Swimming Pool', 'Indoor Entertainment', 'Conference Room', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/homm-bliss-southbeach-patong-sha-extra-plus-hotel-in-phuket-1086918431131275111/
+                                                   
+                                                   

@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : Dhigufaru Island Resort
+Ratings: 3.7 / 5
+Location: Baa Atoll
+Room Type: Veli Pool Villa
+Rent with Taxes: ₹31867+ ₹9779 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Bar', 'Conference Room', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance', 'Laundry Service', 'Health-Spa', 'Postal Services']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/dhigufaru-island-resort-hotel-in-maldives-3295528112458335417/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : Coconut Village Resort - SHA Extra Plus
+Ratings: 4.1 / 5
+Location: Patong
+Room Type: Superior Room
+Rent with Taxes: ₹1174+ ₹282 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Free Internet', 'Air Conditioning', 'Swimming Pool', 'Indoor Entertainment', 'Outdoor Activities', 'Travel Assistance', 'Laundry Service']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/coconut-village-resort-sha-extra-plus-hotel-in-phuket-2616404827071720779/
+                                                   
+                                                   

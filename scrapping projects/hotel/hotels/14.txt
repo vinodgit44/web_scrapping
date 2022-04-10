@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : Season Paradise Hotel Maldives
+Ratings: 4.1 / 5
+Location: Thulusdhoo
+Room Type: Standard Room
+Rent with Taxes: ₹5069+ ₹1703 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Free Internet', 'Air Conditioning', 'Swimming Pool', 'Indoor Entertainment', 'Conference Room', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/season-paradise-maldives-hotel-in-maldives-540669381172573952/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : The Slate Phuket - SHA Extra Plus
+Ratings: 4.5 / 5
+Location: Naiyang
+Room Type: Indigo Studio with Free Breakfast
+Rent with Taxes: ₹9958+ ₹2488 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Sanitizers installed', 'Bar', 'Conference Room', 'Outdoor Activities', 'Banquet hall', 'Safety authorization certificate', 'Travel Assistance']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/the-slate-phuket-sha-extra-plus-hotel-in-phuket-201072960126632483/
+                                                   
+                                                   

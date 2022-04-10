@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : Adaaran Prestige Vadoo Hotel
+Ratings: 4.4 / 5
+Location: South Male Atoll
+Room Type: Sunrise Water Villa with Private Pool and Jacuzzi with Free Breakfast
+Rent with Taxes: ₹38754+ ₹8217 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Sanitizers installed', 'Bar', 'Conference Room', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance', 'Sanitizers', 'Laundry Service']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/adaaran-prestige-vadoo-hotel-in-maldives-6499322901549002710/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : Araya Beach Hotel Patong
+Ratings: 3.9 / 5
+Location: Patong
+Room Type: Superior Double or Twin Room no Balcony
+Rent with Taxes: ₹3000+ ₹738 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Free Internet', 'Air Conditioning', 'Swimming Pool', 'Indoor Entertainment', 'Conference Room', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/araya-beach-patong-hotel-in-phuket-1991136175876585992/
+                                                   
+                                                   

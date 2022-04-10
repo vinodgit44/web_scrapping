@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : Adaaran Select Hudhuran Fushi
+Ratings: 4.5 / 5
+Location: North Male Atoll
+Room Type: Garden room with All Inclusive
+Rent with Taxes: ₹36025+ ₹8357 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Free Internet', 'Air Conditioning', 'Swimming Pool', 'Indoor Entertainment', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance', 'Laundry Service']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/adaaran-select-hudhuran-fushi-hotel-in-maldives-3807613474965949223/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : Katathani Phuket Beach Resort - SHA Extra Plus
+Ratings: 4.5 / 5
+Location: Kata
+Room Type: Deluxe Pool View Room with Free Breakfast
+Rent with Taxes: ₹6556+ ₹1729 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Sanitizers installed', 'Bar', 'Conference Room', 'Outdoor Activities', 'Banquet hall', 'Safety authorization certificate', 'Travel Assistance']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/katathani-phuket-beach-resort-sha-extra-plus-hotel-in-phuket-3277060798168930336/
+                                                   
+                                                   

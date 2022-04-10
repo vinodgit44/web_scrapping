@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : Adaaran Club Rannalhi
+Ratings: 4.5 / 5
+Location: South Male Atoll
+Room Type: Standard Room with All Inclusive
+Rent with Taxes: ₹29143+ ₹6761 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Free Internet', 'Air Conditioning', 'Indoor Entertainment', 'Outdoor Activities', 'Travel Assistance', 'Laundry Service', 'Health-Spa', 'Dining']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/adaaran-club-rannalhi-hotel-in-maldives-5704156680580014325/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : The Nature Phuket - SHA Extra Plus
+Ratings: 4.5 / 5
+Location: Patong
+Room Type: Deluxe with Free Breakfast
+Rent with Taxes: ₹2759+ ₹669 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Sanitizers installed', 'Bar', 'Conference Room', 'Hospital in the vicinity', 'Banquet hall', 'Safety authorization certificate', 'Travel Assistance']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/the-nature-phuket-sha-extra-plus-hotel-in-phuket-3615767479516184789/
+                                                   
+                                                   

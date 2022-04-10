@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : KIHAA Maldives
+Ratings: 4.5 / 5
+Location: Baa Atoll
+Room Type: Beach Villa with Free Breakfast
+Rent with Taxes: ₹19130+ ₹6282 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Sanitizers installed', 'Bar', 'Conference Room', 'Outdoor Activities', 'Banquet hall', 'Safety authorization certificate', 'Travel Assistance']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/kihaa-maldives-hotel-in-maldives-314234261377917567/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : Centara Karon Resort Phuket - SHA Extra Plus
+Ratings: 4.5 / 5
+Location: Karon
+Room Type: Deluxe Pool View Double/Double
+Rent with Taxes: ₹2968+ ₹805 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Free Internet', 'Air Conditioning', 'Swimming Pool', 'Indoor Entertainment', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/centara-karon-resort-phuket-sha-extra-plus-hotel-in-phuket-3989297614874272817/
+                                                   
+                                                   

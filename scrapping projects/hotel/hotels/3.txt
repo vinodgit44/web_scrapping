@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : The Somerset Hotel
+Ratings: 4.5 / 5
+Location: Male City
+Room Type: Superior room with airport transfer with Free Breakfast
+Rent with Taxes: ₹7887+ ₹3289 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Free Internet', 'Air Conditioning', 'Indoor Entertainment', 'Conference Room', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance', 'Laundry Service']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/the-somerset-hotel-in-maldives-6203010185169648223/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : The Natural Resort Phuket - SHA Extra Plus
+Ratings: 3.5 / 5
+Location: Patong
+Room Type: STANDARD BUNGALOW
+Rent with Taxes: ₹729+ ₹192 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Free Internet', 'Air Conditioning', 'Swimming Pool', 'Indoor Entertainment', 'Airport Transfer (on Demand)', 'Outdoor Activities', 'Travel Assistance', 'Bonfire']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/the-natural-resort-phuket-sha-extra-plus-hotel-in-phuket-2378733197139000865/
+                                                   
+                                                   

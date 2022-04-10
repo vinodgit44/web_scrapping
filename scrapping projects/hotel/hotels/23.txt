@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : Arena Beach Hotel
+Ratings: 4.5 / 5
+Location: Maafushi
+Room Type: Standard Deluxe Room with Free Breakfast
+Rent with Taxes: ₹6478+ ₹2006 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Free Internet', 'Air Conditioning', 'Swimming Pool', 'Indoor Entertainment', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance', 'Laundry Service']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/arena-beach-hotel-in-maldives-6621437972472251624/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : Patong Resort - SHA Extra Plus
+Ratings: 4 / 5
+Location: Patong
+Room Type: Superior Room
+Rent with Taxes: ₹1764+ ₹482 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Free Internet', 'Air Conditioning', 'Swimming Pool', 'Indoor Entertainment', 'Airport Transfer (on Demand)', 'Conference Room', 'Outdoor Activities', 'Banquet hall']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/patong-resort-sha-extra-plus-hotel-in-phuket-9215715888024848977/
+                                                   
+                                                   

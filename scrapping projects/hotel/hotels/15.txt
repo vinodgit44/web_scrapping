@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : Cinnamon Velifushi Maldives
+Ratings: 5 / 5
+Location: Vaavu Atoll
+Room Type: Superior Beach Loft with Free Breakfast
+Rent with Taxes: ₹20397+ ₹6518 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Sanitizers', 'Gloves', 'Air Conditioning', 'Bar', 'Restaurant/Coffee Shop', 'Laundry Service', 'Indoor Entertainment']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/cinnamon-velifushi-maldives-hotel-in-maldives-414962120464540056/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : Aspery Hotel- SHA
+Ratings: 4 / 5
+Location: Patong
+Room Type: Standard Double Room
+Rent with Taxes: ₹778+ ₹223 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Free Internet', 'Air Conditioning', 'Swimming Pool', 'Indoor Entertainment', 'Travel Assistance', 'Laundry Service', 'Spa']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/aspery-sha-hotel-in-phuket-1024005788812449975/
+                                                   
+                                                   

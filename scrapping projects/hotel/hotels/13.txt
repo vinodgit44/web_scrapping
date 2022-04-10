@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : Velana Hotel Maldives
+Ratings: 3.8 / 5
+Location: Maafushi
+Room Type: Deluxe with Free Breakfast
+Rent with Taxes: ₹4966+ ₹1869 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Free Internet', 'Air Conditioning', 'Indoor Entertainment', 'Outdoor Activities', 'Travel Assistance', 'Laundry Service', 'Dining', 'CCTV surveillance']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/velana-maldives-hotel-in-maldives-2618681463033542917/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : Wyndham Grand Phuket Kalim Bay - SHA Extra Plus
+Ratings: 4.7 / 5
+Location: Patong
+Room Type: Deluxe Room King
+Rent with Taxes: ₹3882+ ₹916 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Sanitizers installed', 'Safety authorization certificate', 'Conference Room', 'Hospital in the vicinity', 'Banquet hall', 'Bar', 'Travel Assistance', 'Sanitizers']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/wyndham-grand-phuket-kalim-bay-sha-extra-plus-hotel-in-phuket-4728465354383180369/
+                                                   
+                                                   

@@ -1,0 +1,24 @@
+################ Hotels in maldives ###############
+                                                   
+Hotel Name : Coco Bodu Hithi
+Ratings: 4.5 / 5
+Location: North Male Atoll
+Room Type: Island Villa with private pool with Free Breakfast
+Rent with Taxes: ₹29404+ ₹10375 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Doctor On Call', 'Sanitizers installed', 'Bar', 'Outdoor Activities', 'Banquet hall', 'Travel Assistance', 'Sanitizers', 'Laundry Service']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/coco-bodu-hithi-hotel-in-maldives-46110670424411460/
+                                                   
+                                                   
+################ Hotels in phuket ###############
+                                                   
+Hotel Name : My Beach Resort - SHA Extra Plus
+Ratings: 4.7 / 5
+Location: Panwa Cape
+Room Type: Deluxe Pool View with Free Breakfast
+Rent with Taxes: ₹3766+ ₹974 taxes & fees
+Rent for Duration: 1 room per night
+Aminities: ['Sanitizers installed', 'Safety authorization certificate', 'Conference Room', 'Hospital in the vicinity', 'Banquet hall', 'Bar', 'Travel Assistance', 'Sanitizers']
+Link for More Info. : https://www.goibibo.com/hotels-international/hotels-international/my-beach-resort-sha-extra-plus-hotel-in-phuket-2006680357551557508/
+                                                   
+                                                   
